@@ -1,0 +1,4 @@
+node_modules/
+.env
+seed.js
+DOGFISH_PG_OPTS
